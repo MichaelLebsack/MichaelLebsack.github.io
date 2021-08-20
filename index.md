@@ -1,4 +1,8 @@
-# Home
+---
+
+---
+#  
+| Home | [About]() | [Portfolio]() | [Contact](contact/index.md) |
 
 > Michael Lebsack - Manager, Content Design<br>
 > _Using words to bring clarity to our products_
